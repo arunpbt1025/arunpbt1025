@@ -30,10 +30,10 @@
 
 ### 📌 Featured Projects
 
+-  **Numera Personal AI Assistent:** An AI-powered conversational bot to automate tasks and answer queries. *(In development)*
 - **ATM-Management-System:** A Python-based CLI application featuring secure authentication, balance inquiry, deposit/withdrawal, and mini-statement logs.
 - **Expression-Calculator:** C project using custom Stacks to parse and evaluate infix to postfix mathematical expressions.
 - **Hospital-Management-System:** Workflow tool designed to streamline patient records and administrative tracking.
--  **Numera Personal AI Assistent:** An AI-powered conversational bot to automate tasks and answer queries. *(In development)*
 ---
 
 ### 📈 Activity & Stats
