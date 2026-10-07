@@ -30,11 +30,15 @@
 
 ### 📌 Featured Projects
 
--  **Numera Personal AI Assistent:** An AI-powered conversational bot to automate tasks and answer queries. *(In development)*
-- **ATM-Management-System:** A Python-based CLI application featuring secure authentication, balance inquiry, deposit/withdrawal, and mini-statement logs.
-- **Expression-Calculator:** C project using custom Stacks to parse and evaluate infix to postfix mathematical expressions.
-- **Hospital-Management-System:** Workflow tool designed to streamline patient records and administrative tracking.
----
+### 🚀 Featured Projects
+
+- **[NPAP - National Packaging Audit Portal](https://github.com/arunpbt1025/NPAP-Legal-Metrology-Audit):** Gov-Tech statutory compliance engine built for Smart India Hackathon. Verifies packaging declarations under PCR 2011 using FastAPI, EasyOCR text forensics, and ReportLab automated PDF docket generation.
+- **Numera (Personal AI Assistant):** ⚡ *Flagship Project • Currently Under Active Development.* An end-to-end autonomous AI assistant designed to handle task automation, intelligent workflows, and multi-turn conversational problem solving.
+- **[Hospital-Management-System](https://github.com/arunpbt1025/Hospital-Management-System):** Workflow optimization platform engineered to streamline patient records, appointments, and administrative logistics.
+- **[ATM-Management-System](https://github.com/arunpbt1025/ATM-Management-System):** A robust Python-based CLI application featuring secure PIN authentication, ledger maintenance, deposit/withdrawal routines, and transaction audit trails.
+- **[Expression-Calculator](https://github.com/arunpbt1025/Expression-Calculator):** High-performance C application utilizing custom stack data structures to parse and evaluate complex infix-to-postfix mathematical expressions.
+-
+
 
 ### 📈 Activity & Stats
 
