@@ -37,8 +37,6 @@
 - **[Hospital-Management-System](https://github.com/arunpbt1025/Hospital-Management-System):** Workflow optimization platform engineered to streamline patient records, appointments, and administrative logistics.
 - **[ATM-Management-System](https://github.com/arunpbt1025/ATM-Management-System):** A robust Python-based CLI application featuring secure PIN authentication, ledger maintenance, deposit/withdrawal routines, and transaction audit trails.
 - **[Expression-Calculator](https://github.com/arunpbt1025/Expression-Calculator):** High-performance C application utilizing custom stack data structures to parse and evaluate complex infix-to-postfix mathematical expressions.
--
-
 
 ### 📈 Activity & Stats
 
