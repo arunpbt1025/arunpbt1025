@@ -28,8 +28,6 @@
 
 ---
 
-### 📌 Featured Projects
-
 ### 🚀 Featured Projects
 
 - **[NPAP - National Packaging Audit Portal](https://github.com/arunpbt1025/NPAP-Legal-Metrology-Audit):** Gov-Tech statutory compliance engine built for Smart India Hackathon. Verifies packaging declarations under PCR 2011 using FastAPI, EasyOCR text forensics, and ReportLab automated PDF docket generation.
